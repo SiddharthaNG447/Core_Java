@@ -1,8 +1,9 @@
 package Strings;
 
 public class Print_Duplicates_InString_2 {
-
-	static final int size = 124;
+          // Here size is taken according ascii values what you have entered in input string
+	//This program also works for frequency of character with small modification
+	static final int size = 128;
 
 	public static void main(String[] args) {
 		String str = "siddaaasumanbbbhhhccc";
