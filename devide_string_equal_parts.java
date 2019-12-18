@@ -1,3 +1,8 @@
+///Devide the given strings in to Equal number of Parts by Satisfying all Conditions
+
+
+
+
 import java.util.Scanner;
 
 public class devide_string_equal_parts {
